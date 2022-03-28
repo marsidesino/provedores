@@ -772,11 +772,11 @@
   {
     "name": "Anzol",
     "categories": ["Fabricación", "Impresión 3D"],
-    "council": ["Online", "Santiago"],
+    "council": "Online",
     "address": "",
     "phones": ["644 022 054"],
     "email": "info@anzol.eu",
     "web": "http://anzol.eu",
-    "description": "Plataforma dixital de servizos de fabricación (corte e gravado, impresión 3D, mecanizados...) con sede en Teo."
+    "description": "Plataforma dixital de servizos de fabricación (corte e gravado, impresión 3D, mecanizados...) con sede en Teo"
   }
 ]
