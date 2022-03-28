@@ -140,6 +140,16 @@
     "description": "Etiquetado"
   },
   {
+    "name": "Dani Viéitez e Iria Iglesias",
+    "categories": ["Ilustración"],
+    "council": "Lugo",
+    "address": "Pantón",
+    "phones": ["982 166 167"],
+    "email": "info@estudiognomo.com",
+    "web": "https://danieiria.com/",
+    "description": "Ilustración"
+  },
+  {
     "name": "Darío Fernández Ignacio Vídeo",
     "categories": ["Vídeo / Fotografía"],
     "council": "A Coruña",
@@ -480,16 +490,6 @@
     "description": "Estuchado"
   },
   {
-    "name": "Sergio Pernas Velo",
-    "categories": ["Programación web / móbil"],
-    "council": "A Coruña",
-    "address": "",
-    "phones": ["670 634 249"],
-    "email": "sergiopernasvelo@gmail.com",
-    "web": "",
-    "description": "Front-end developer"
-  },
-  {
     "name": "Serilua",
     "categories": ["Merchandising", "Marcaxe e rotulación"],
     "council": "Santiago",
@@ -668,16 +668,6 @@
     "email": "",
     "web": "http://www.octaviomazza.com",
     "description": "Fotografía e vídeo comercial e publicitaria"
-  },
-  {
-    "name": "Andrés Vázquez Passfeld",
-    "categories": ["Animación", "Motion graphics"],
-    "council": "A Coruña",
-    "address": "",
-    "phones": ["630 876 096"],
-    "email": "",
-    "web": "http://andyvzqz.com",
-    "description": "Motion graphics, deseño interactivo e 3D"
   },
   {
     "name": "Verve Creative Group",
