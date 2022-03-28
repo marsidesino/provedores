@@ -779,4 +779,14 @@
     "web": "http://ber.to/",
     "description": "Desenvolvemento web, especialidade en frontend, interactivade e javascript"
   }
+  {
+    "name": "Anzol",
+    "categories": ["Fabricación", "Impresión 3D"],
+    "council": ["Online", "Santiago"],
+    "address": "",
+    "phones": ["644 022 054"],
+    "email": "info@anzol.eu",
+    "web": "http://anzol.eu",
+    "description": "Plataforma dixital de servizos de fabricación (corte e gravado, impresión 3D, mecanizados...) con sede en Teo."
+  }
 ]
